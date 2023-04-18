@@ -1,0 +1,731 @@
+
+*** Running [./bin/driver -f trace00.csv.processed -b 10 -c 1500 -h 0 -d 0 -n 5000 -m 5000 -t 10000000 -q 1000] ***
+
+Nodes initialized
+Edges initialized
+Aggregates initialized
+Cores initialized
+Link Created -- Host 0 -> Edge 0
+Link Created -- Host 1 -> Edge 0
+Link Created -- Host 2 -> Edge 1
+Link Created -- Host 3 -> Edge 1
+Link Created -- Host 4 -> Edge 2
+Link Created -- Host 5 -> Edge 2
+Link Created -- Host 6 -> Edge 3
+Link Created -- Host 7 -> Edge 3
+Link Created -- Host 8 -> Edge 4
+Link Created -- Host 9 -> Edge 4
+Link Created -- Host 10 -> Edge 5
+Link Created -- Host 11 -> Edge 5
+Link Created -- Host 12 -> Edge 6
+Link Created -- Host 13 -> Edge 6
+Link Created -- Host 14 -> Edge 7
+Link Created -- Host 15 -> Edge 7
+Links initialized
+Opening tracefile trace00.csv.processed
+Flows initialized
+Tracefile processed
+Active Flows for Node 0 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 0 dst 11 flow 10 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 1 dst 9 flow 23 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 2 dst 13 flow 42 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 3 dst 14 flow 58 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 4 dst 8 flow 67 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 5 dst 3 flow 78 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 6 dst 2 flow 92 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 7 dst 11 flow 115 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 9 dst 3 flow 138 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 10 dst 12 flow 161 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 11 dst 9 flow 174 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 12 dst 3 flow 183 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 13 dst 5 flow 200 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 14 dst 6 flow 216 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 15
+curr timeslot 0 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 15 dst 9 flow 234 size 1024 seq 0 ack 0 ctrl 0
+.Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 11 flow 10 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+DST TOR 0
+pkt: src 1 dst 9 flow 23 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 13 flow 42 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 14 flow 58 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 8 flow 67 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 3 flow 78 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 2 flow 92 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 11 flow 115 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 3 flow 138 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 12 flow 161 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 9 flow 174 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 3 flow 183 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 5 flow 200 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 6 flow 216 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 9 flow 234 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 11 flow 10 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+DST TOR 0
+pkt: src 1 dst 9 flow 23 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 13 flow 42 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 14 flow 58 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 8 flow 67 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 3 flow 78 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 2 flow 92 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 11 flow 115 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 3 flow 138 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 12 flow 161 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 9 flow 174 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 3 flow 183 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 5 flow 200 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 6 flow 216 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 9 flow 234 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 0 dst 9 flow 8 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 1 dst 15 flow 29 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 2 dst 1 flow 31 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 3 dst 1 flow 46 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 4 dst 12 flow 71 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 5 dst 14 flow 88 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 6 dst 15 flow 104 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 7 dst 0 flow 105 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 9 dst 1 flow 136 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 10 dst 13 flow 162 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 11 dst 1 flow 166 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 12 dst 7 flow 187 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 13 dst 10 flow 205 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 14 dst 15 flow 224 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+curr timeslot 3 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 15 dst 3 flow 228 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 9 flow 8 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+DST TOR 0
+pkt: src 1 dst 15 flow 29 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 1 flow 31 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 1 flow 46 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 12 flow 71 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 14 flow 88 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 15 flow 104 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 0 flow 105 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 1 flow 136 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 13 flow 162 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 1 flow 166 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 7 flow 187 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 10 flow 205 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 15 flow 224 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 3 flow 228 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 9 flow 8 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+DST TOR 0
+pkt: src 1 dst 15 flow 29 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 1 flow 31 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 1 flow 46 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 12 flow 71 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 14 flow 88 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 15 flow 104 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 0 flow 105 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 1 flow 136 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 13 flow 162 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 1 flow 166 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 7 flow 187 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 10 flow 205 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 15 flow 224 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 3 flow 228 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 0 dst 4 flow 3 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+curr timeslot 6 
+Number of Active Flows 15
+Active Flows for Node 2 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 2 dst 14 flow 43 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 3 dst 14 flow 58 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 4 dst 13 flow 72 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 5 dst 9 flow 83 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 6 dst 3 flow 93 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 7 dst 1 flow 106 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 8 dst 0 flow 120 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 9 dst 14 flow 148 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 10 dst 1 flow 151 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 11 dst 2 flow 167 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 12 dst 14 flow 193 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 13 dst 7 flow 202 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 14 dst 9 flow 219 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+curr timeslot 6 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 15 dst 10 flow 235 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 4 flow 3 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 14 flow 43 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 14 flow 58 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 13 flow 72 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 9 flow 83 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 3 flow 93 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 1 flow 106 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 0 flow 120 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 14 flow 148 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 1 flow 151 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 2 flow 167 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 14 flow 193 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 7 flow 202 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 9 flow 219 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 10 flow 235 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 4 flow 3 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 14 flow 43 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 14 flow 58 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 13 flow 72 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 9 flow 83 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 3 flow 93 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 1 flow 106 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 0 flow 120 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 14 flow 148 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 1 flow 151 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 2 flow 167 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 14 flow 193 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 7 flow 202 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 9 flow 219 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 10 flow 235 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 0 dst 1 flow 0 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 0
+pkt: src 1 dst 5 flow 19 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 2 dst 14 flow 43 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 1
+pkt: src 3 dst 4 flow 48 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 4 dst 11 flow 70 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 2
+pkt: src 5 dst 13 flow 87 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 6 dst 4 flow 94 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 3
+pkt: src 7 dst 8 flow 112 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 4
+pkt: src 9 dst 12 flow 146 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 10 dst 4 flow 154 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 5
+pkt: src 11 dst 1 flow 166 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 12 dst 1 flow 181 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 6
+pkt: src 13 dst 1 flow 196 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 14 dst 3 flow 213 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+curr timeslot 9 
+Number of Active Flows 15
+DST TOR 7
+pkt: src 15 dst 0 flow 225 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 1 flow 0 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+DST TOR 0
+pkt: src 1 dst 5 flow 19 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 14 flow 43 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 4 flow 48 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 11 flow 70 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 13 flow 87 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 4 flow 94 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 8 flow 112 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 12 flow 146 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 4 flow 154 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 1 flow 166 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 1 flow 181 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 1 flow 196 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 3 flow 213 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 0 flow 225 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 0 are 14
+DST TOR 0
+pkt: src 0 dst 1 flow 0 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 1 are 14
+DST TOR 0
+pkt: src 1 dst 5 flow 19 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 2 are 14
+DST TOR 1
+pkt: src 2 dst 14 flow 43 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 3 are 14
+DST TOR 1
+pkt: src 3 dst 4 flow 48 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 4 are 14
+DST TOR 2
+pkt: src 4 dst 11 flow 70 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 5 are 14
+DST TOR 2
+pkt: src 5 dst 13 flow 87 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 6 are 14
+DST TOR 3
+pkt: src 6 dst 4 flow 94 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 7 are 14
+DST TOR 3
+pkt: src 7 dst 8 flow 112 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 8 are 14
+DST TOR 4
+pkt: src 8 dst 5 flow 125 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 9 are 14
+DST TOR 4
+pkt: src 9 dst 12 flow 146 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 10 are 14
+DST TOR 5
+pkt: src 10 dst 4 flow 154 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 11 are 14
+DST TOR 5
+pkt: src 11 dst 1 flow 166 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 12 are 14
+DST TOR 6
+pkt: src 12 dst 1 flow 181 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 13 are 14
+DST TOR 6
+pkt: src 13 dst 1 flow 196 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 14 are 14
+DST TOR 7
+pkt: src 14 dst 3 flow 213 size 1024 seq 0 ack 0 ctrl 0
+Active Flows for Node 15 are 14
+DST TOR 7
+pkt: src 15 dst 0 flow 225 size 1024 seq 0 ack 0 ctrl 0
+Finished in 11 timeslots
+Finished in 0.000001 seconds
+Finished execution
+
+*** Running [./bin/driver -f trace00.csv.processed -b 10 -c 1500 -h 0 -d 0 -n 5000 -m 5000 -t 10000000 -q 1000] ***
+

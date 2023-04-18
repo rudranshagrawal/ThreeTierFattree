@@ -1,0 +1,277 @@
+
+*** Running [./bin/driver -f trace00.csv.processed -b 10 -c 1500 -h 0 -d 0 -n 5000 -m 5000 -t 10000000 -q 1000] ***
+
+Host with node index 0 created
+Host with node index 1 created
+Host with node index 2 created
+Host with node index 3 created
+Host with node index 4 created
+Host with node index 5 created
+Host with node index 6 created
+Host with node index 7 created
+Host with node index 8 created
+Host with node index 9 created
+Host with node index 10 created
+Host with node index 11 created
+Host with node index 12 created
+Host with node index 13 created
+Host with node index 14 created
+Host with node index 15 created
+Host with node index 16 created
+Host with node index 17 created
+Host with node index 18 created
+Host with node index 19 created
+Host with node index 20 created
+Host with node index 21 created
+Host with node index 22 created
+Host with node index 23 created
+Host with node index 24 created
+Host with node index 25 created
+Host with node index 26 created
+Host with node index 27 created
+Host with node index 28 created
+Host with node index 29 created
+Host with node index 30 created
+Host with node index 31 created
+Host with node index 32 created
+Host with node index 33 created
+Host with node index 34 created
+Host with node index 35 created
+Host with node index 36 created
+Host with node index 37 created
+Host with node index 38 created
+Host with node index 39 created
+Host with node index 40 created
+Host with node index 41 created
+Host with node index 42 created
+Host with node index 43 created
+Host with node index 44 created
+Host with node index 45 created
+Host with node index 46 created
+Host with node index 47 created
+Host with node index 48 created
+Host with node index 49 created
+Host with node index 50 created
+Host with node index 51 created
+Host with node index 52 created
+Host with node index 53 created
+Nodes initialized
+Edges initialized
+Link Created -- Host 0 -> Edge 0
+Link Created -- Host 1 -> Edge 0
+Link Created -- Host 2 -> Edge 0
+Link Created -- Host 3 -> Edge 1
+Link Created -- Host 4 -> Edge 1
+Link Created -- Host 5 -> Edge 1
+Link Created -- Host 6 -> Edge 2
+Link Created -- Host 7 -> Edge 2
+Link Created -- Host 8 -> Edge 2
+Link Created -- Host 9 -> Edge 3
+Link Created -- Host 10 -> Edge 3
+Link Created -- Host 11 -> Edge 3
+Link Created -- Host 12 -> Edge 4
+Link Created -- Host 13 -> Edge 4
+Link Created -- Host 14 -> Edge 4
+Link Created -- Host 15 -> Edge 5
+Link Created -- Host 16 -> Edge 5
+Link Created -- Host 17 -> Edge 5
+Link Created -- Host 18 -> Edge 6
+Link Created -- Host 19 -> Edge 6
+Link Created -- Host 20 -> Edge 6
+Link Created -- Host 21 -> Edge 7
+Link Created -- Host 22 -> Edge 7
+Link Created -- Host 23 -> Edge 7
+Link Created -- Host 24 -> Edge 8
+Link Created -- Host 25 -> Edge 8
+Link Created -- Host 26 -> Edge 8
+Link Created -- Host 27 -> Edge 9
+Link Created -- Host 28 -> Edge 9
+Link Created -- Host 29 -> Edge 9
+Link Created -- Host 30 -> Edge 10
+Link Created -- Host 31 -> Edge 10
+Link Created -- Host 32 -> Edge 10
+Link Created -- Host 33 -> Edge 11
+Link Created -- Host 34 -> Edge 11
+Link Created -- Host 35 -> Edge 11
+Link Created -- Host 36 -> Edge 12
+Link Created -- Host 37 -> Edge 12
+Link Created -- Host 38 -> Edge 12
+Link Created -- Host 39 -> Edge 13
+Link Created -- Host 40 -> Edge 13
+Link Created -- Host 41 -> Edge 13
+Link Created -- Host 42 -> Edge 14
+Link Created -- Host 43 -> Edge 14
+Link Created -- Host 44 -> Edge 14
+Link Created -- Host 45 -> Edge 15
+Link Created -- Host 46 -> Edge 15
+Link Created -- Host 47 -> Edge 15
+Link Created -- Host 48 -> Edge 16
+Link Created -- Host 49 -> Edge 16
+Link Created -- Host 50 -> Edge 16
+Link Created -- Host 51 -> Edge 17
+Link Created -- Host 52 -> Edge 17
+Link Created -- Host 53 -> Edge 17
+Link Created -- Egde 0 -> Host 0
+Link Created -- Egde 0 -> Host 1
+Link Created -- Egde 0 -> Host 2
+Link Created -- Egde 1 -> Host 3
+Link Created -- Egde 1 -> Host 4
+Link Created -- Egde 1 -> Host 5
+Link Created -- Egde 2 -> Host 6
+Link Created -- Egde 2 -> Host 7
+Link Created -- Egde 2 -> Host 8
+Link Created -- Egde 3 -> Host 9
+Link Created -- Egde 3 -> Host 10
+Link Created -- Egde 3 -> Host 11
+Link Created -- Egde 4 -> Host 12
+Link Created -- Egde 4 -> Host 13
+Link Created -- Egde 4 -> Host 14
+Link Created -- Egde 5 -> Host 15
+Link Created -- Egde 5 -> Host 16
+Link Created -- Egde 5 -> Host 17
+Link Created -- Egde 6 -> Host 18
+Link Created -- Egde 6 -> Host 19
+Link Created -- Egde 6 -> Host 20
+Link Created -- Egde 7 -> Host 21
+Link Created -- Egde 7 -> Host 22
+Link Created -- Egde 7 -> Host 23
+Link Created -- Egde 8 -> Host 24
+Link Created -- Egde 8 -> Host 25
+Link Created -- Egde 8 -> Host 26
+Link Created -- Egde 9 -> Host 27
+Link Created -- Egde 9 -> Host 28
+Link Created -- Egde 9 -> Host 29
+Link Created -- Egde 10 -> Host 30
+Link Created -- Egde 10 -> Host 31
+Link Created -- Egde 10 -> Host 32
+Link Created -- Egde 11 -> Host 33
+Link Created -- Egde 11 -> Host 34
+Link Created -- Egde 11 -> Host 35
+Link Created -- Egde 12 -> Host 36
+Link Created -- Egde 12 -> Host 37
+Link Created -- Egde 12 -> Host 38
+Link Created -- Egde 13 -> Host 39
+Link Created -- Egde 13 -> Host 40
+Link Created -- Egde 13 -> Host 41
+Link Created -- Egde 14 -> Host 42
+Link Created -- Egde 14 -> Host 43
+Link Created -- Egde 14 -> Host 44
+Link Created -- Egde 15 -> Host 45
+Link Created -- Egde 15 -> Host 46
+Link Created -- Egde 15 -> Host 47
+Link Created -- Egde 16 -> Host 48
+Link Created -- Egde 16 -> Host 49
+Link Created -- Egde 16 -> Host 50
+Link Created -- Egde 17 -> Host 51
+Link Created -- Egde 17 -> Host 52
+Link Created -- Egde 17 -> Host 53
+Links initialized
+Link Freed -- Host 0 -> Edge 0
+Link Freed -- Host 1 -> Edge 0
+Link Freed -- Host 2 -> Edge 0
+Link Freed -- Host 3 -> Edge 1
+Link Freed -- Host 4 -> Edge 1
+Link Freed -- Host 5 -> Edge 1
+Link Freed -- Host 6 -> Edge 2
+Link Freed -- Host 7 -> Edge 2
+Link Freed -- Host 8 -> Edge 2
+Link Freed -- Host 9 -> Edge 3
+Link Freed -- Host 10 -> Edge 3
+Link Freed -- Host 11 -> Edge 3
+Link Freed -- Host 12 -> Edge 4
+Link Freed -- Host 13 -> Edge 4
+Link Freed -- Host 14 -> Edge 4
+Link Freed -- Host 15 -> Edge 5
+Link Freed -- Host 16 -> Edge 5
+Link Freed -- Host 17 -> Edge 5
+Link Freed -- Host 18 -> Edge 6
+Link Freed -- Host 19 -> Edge 6
+Link Freed -- Host 20 -> Edge 6
+Link Freed -- Host 21 -> Edge 7
+Link Freed -- Host 22 -> Edge 7
+Link Freed -- Host 23 -> Edge 7
+Link Freed -- Host 24 -> Edge 8
+Link Freed -- Host 25 -> Edge 8
+Link Freed -- Host 26 -> Edge 8
+Link Freed -- Host 27 -> Edge 9
+Link Freed -- Host 28 -> Edge 9
+Link Freed -- Host 29 -> Edge 9
+Link Freed -- Host 30 -> Edge 10
+Link Freed -- Host 31 -> Edge 10
+Link Freed -- Host 32 -> Edge 10
+Link Freed -- Host 33 -> Edge 11
+Link Freed -- Host 34 -> Edge 11
+Link Freed -- Host 35 -> Edge 11
+Link Freed -- Host 36 -> Edge 12
+Link Freed -- Host 37 -> Edge 12
+Link Freed -- Host 38 -> Edge 12
+Link Freed -- Host 39 -> Edge 13
+Link Freed -- Host 40 -> Edge 13
+Link Freed -- Host 41 -> Edge 13
+Link Freed -- Host 42 -> Edge 14
+Link Freed -- Host 43 -> Edge 14
+Link Freed -- Host 44 -> Edge 14
+Link Freed -- Host 45 -> Edge 15
+Link Freed -- Host 46 -> Edge 15
+Link Freed -- Host 47 -> Edge 15
+Link Freed -- Host 48 -> Edge 16
+Link Freed -- Host 49 -> Edge 16
+Link Freed -- Host 50 -> Edge 16
+Link Freed -- Host 51 -> Edge 17
+Link Freed -- Host 52 -> Edge 17
+Link Freed -- Host 53 -> Edge 17
+Link Freed -- Egde 0 -> Host 0
+Link Freed -- Egde 0 -> Host 1
+Link Freed -- Egde 0 -> Host 2
+Link Freed -- Egde 1 -> Host 3
+Link Freed -- Egde 1 -> Host 4
+Link Freed -- Egde 1 -> Host 5
+Link Freed -- Egde 2 -> Host 6
+Link Freed -- Egde 2 -> Host 7
+Link Freed -- Egde 2 -> Host 8
+Link Freed -- Egde 3 -> Host 9
+Link Freed -- Egde 3 -> Host 10
+Link Freed -- Egde 3 -> Host 11
+Link Freed -- Egde 4 -> Host 12
+Link Freed -- Egde 4 -> Host 13
+Link Freed -- Egde 4 -> Host 14
+Link Freed -- Egde 5 -> Host 15
+Link Freed -- Egde 5 -> Host 16
+Link Freed -- Egde 5 -> Host 17
+Link Freed -- Egde 6 -> Host 18
+Link Freed -- Egde 6 -> Host 19
+Link Freed -- Egde 6 -> Host 20
+Link Freed -- Egde 7 -> Host 21
+Link Freed -- Egde 7 -> Host 22
+Link Freed -- Egde 7 -> Host 23
+Link Freed -- Egde 8 -> Host 24
+Link Freed -- Egde 8 -> Host 25
+Link Freed -- Egde 8 -> Host 26
+Link Freed -- Egde 9 -> Host 27
+Link Freed -- Egde 9 -> Host 28
+Link Freed -- Egde 9 -> Host 29
+Link Freed -- Egde 10 -> Host 30
+Link Freed -- Egde 10 -> Host 31
+Link Freed -- Egde 10 -> Host 32
+Link Freed -- Egde 11 -> Host 33
+Link Freed -- Egde 11 -> Host 34
+Link Freed -- Egde 11 -> Host 35
+Link Freed -- Egde 12 -> Host 36
+Link Freed -- Egde 12 -> Host 37
+Link Freed -- Egde 12 -> Host 38
+Link Freed -- Egde 13 -> Host 39
+Link Freed -- Egde 13 -> Host 40
+Link Freed -- Egde 13 -> Host 41
+Link Freed -- Egde 14 -> Host 42
+Link Freed -- Egde 14 -> Host 43
+Link Freed -- Egde 14 -> Host 44
+Link Freed -- Egde 15 -> Host 45
+Link Freed -- Egde 15 -> Host 46
+Link Freed -- Egde 15 -> Host 47
+Link Freed -- Egde 16 -> Host 48
+Link Freed -- Egde 16 -> Host 49
+Link Freed -- Egde 16 -> Host 50
+Link Freed -- Egde 17 -> Host 51
+Link Freed -- Egde 17 -> Host 52
+Link Freed -- Egde 17 -> Host 53
+Finished execution
